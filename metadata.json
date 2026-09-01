@@ -1,0 +1,6 @@
+{
+  "name": "Ledgerly",
+  "description": "Private, local-first personal finance manager with double-entry accounting, budgets, statistics, and recurring transaction tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

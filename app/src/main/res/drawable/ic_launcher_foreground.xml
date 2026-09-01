@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Ledger Book Base -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M32,28 h44 c3.31,0 6,2.69 6,6 v40 c0,3.31 -2.69,6 -6,6 h-44 c-3.31,0 -6,-2.69 -6,-6 v-40 c0,-3.31 2.69,-6 6,-6 z" />
+    <!-- Ledger Spine & Contrast Page Layer -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M26,34 c0,-3.31 2.69,-6 6,-6 h8 v52 h-8 c-3.31,0 -6,-2.69 -6,-6 z" />
+    <!-- Ledger Balance Graph / Growth Chart Lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,40 h28 v4 h-28 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,48 h20 v4 h-20 z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M44,56 h14 v4 h-14 z" />
+    <!-- Modern Finance Coin Accent Badge -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M70,64 m-9,0 a9,9 0,1 0,18 0 a9,9 0,1 0,-18 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,59 h2 v10 h-2 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,61 h6 v2 h-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,65 h6 v2 h-6 z" />
+</vector>
